@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onuwuuwo.github.io/Atk/sitemap_index.txt
+Sitemap: https://onuwuuwo.github.io/LiC/sitemap_index.txt
+Sitemap: https://onuwuuwo.github.io/PoR/sitemap_index.txt
+Sitemap: https://onuwuuwo.github.io/bjy/sitemap_index.txt
